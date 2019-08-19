@@ -4,7 +4,7 @@
 
 A custom Hashmap data structure, built in C
 
-## How to compile and run
+## How to compile and run:
 > dhslj
 
 ## What I learned:
