@@ -1,4 +1,4 @@
-# Hashmap spellchecker
+# Hashmap Spellchecker
 
 > CS-261 (Data Structures I) Program
 
@@ -11,7 +11,7 @@ A spellchecker program using a custom-built hashmap data structure, coded in C.
 > 4. Enter any word to check it's spelling, or type `quit` to exit the program
 > 5. View result(s)
 
-## Concepts learned/used:
+## Tech and/or concepts learned/used:
 > - Hash tables
 > - Concordance
 > - Hash Chaining
