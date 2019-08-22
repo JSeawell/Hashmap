@@ -12,6 +12,7 @@ A spellchecker program using a custom-built hashmap data structure, coded in C.
 > 5. View result(s)
 
 ## Tech and/or concepts learned/used:
+> - C language
 > - Hash tables
 > - Concordance
 > - Hash Chaining
